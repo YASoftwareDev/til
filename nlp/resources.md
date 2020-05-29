@@ -1,96 +1,96 @@
 # lists:
 
-https://github.com/ksopyla/awesome-nlp-polish
-https://github.com/sdadas/polish-nlp-resources - mentioned in previous list but got many different things
-http://clip.ipipan.waw.pl/LRT
-https://datasets.quantumstat.com/
-https://github.com/EthicalML/awesome-production-machine-learning
+https://github.com/ksopyla/awesome-nlp-polish  
+https://github.com/sdadas/polish-nlp-resources - mentioned in previous list but got many different things  
+http://clip.ipipan.waw.pl/LRT  
+https://datasets.quantumstat.com/  
+https://github.com/EthicalML/awesome-production-machine-learning  
 
 
 # scripts:
 
-https://gist.github.com/ksopyla/f05fe2f48bbc9de895368b8a7863b5c3 - Polish abbreviations
+https://gist.github.com/ksopyla/f05fe2f48bbc9de895368b8a7863b5c3 - Polish abbreviations  
 
 
 # tools:
-http://nlp.actaforte.pl:8080/NLP3W/ - odmiana liczebników
-https://exp.lobi.nencki.gov.pl/nawl-analysis - Nencki Affective Word List (sentiment analysis)
+http://nlp.actaforte.pl:8080/NLP3W/ - odmiana liczebników  
+https://exp.lobi.nencki.gov.pl/nawl-analysis - Nencki Affective Word List (sentiment analysis)  
 https://github.com/NVIDIA/Megatron-LM - nvidia BERT like training facility
 
 
 # frameworks:
 
-https://github.com/allenai/allennlp
-stanfordNLP
-flair
-facebook research
-google research
-openai
-allennlp
-gensim
-fasttext
-gluonnlp
+https://github.com/allenai/allennlp  
+stanfordNLP  
+flair  
+facebook research  
+google research  
+openai  
+allennlp  
+gensim  
+fasttext  
+gluonnlp  
 
 
 # resources:
-https://datasets.quantumstat.com/
-https://tatoeba.org/eng/downloads
-https://github.com/facebookresearch/ParlAI
-http://opus.nlpl.eu/
-https://commoncrawl.org/ - but oscar is preprocessed already
+https://datasets.quantumstat.com/  
+https://tatoeba.org/eng/downloads  
+https://github.com/facebookresearch/ParlAI  
+http://opus.nlpl.eu/  
+https://commoncrawl.org/ - but oscar is preprocessed already  
 
 
 # learning/tutorials
 
-https://www.groundai.com/
-https://nlpoverview.com/
-https://github.com/mhagiwara/100-nlp-papers
-https://zablo.net/blog/post/training-roberta-from-scratch-the-missing-guide-polish-language-model/ - how to build BERT based model.
-http://d2l.ai/
-http://www.deepdata.pl/uncategorized/przygotowanie-polskiego-modelu-word2vec-z-wykorzystaniem-korpusu-opensubtitles/
-http://www.deepdata.pl/nlp-scikit-learn-klasyfikacja/przyklad-klasyfikacji-polskich-tekstow-czesc-1/
-https://distill.pub/
-https://colah.github.io/
+https://www.groundai.com/  
+https://nlpoverview.com/  
+https://github.com/mhagiwara/100-nlp-papers  
+https://zablo.net/blog/post/training-roberta-from-scratch-the-missing-guide-polish-language-model/ - how to build BERT based model.  
+http://d2l.ai/  
+http://www.deepdata.pl/uncategorized/przygotowanie-polskiego-modelu-word2vec-z-wykorzystaniem-korpusu-opensubtitles/  
+http://www.deepdata.pl/nlp-scikit-learn-klasyfikacja/przyklad-klasyfikacji-polskich-tekstow-czesc-1/  
+https://distill.pub/  
+https://colah.github.io/  
 
 
 # benchmarks
 
-http://clip.ipipan.waw.pl/benchmarks
-https://klejbenchmark.com/leaderboard
-https://hotpotqa.github.io/
+http://clip.ipipan.waw.pl/benchmarks  
+https://klejbenchmark.com/leaderboard  
+https://hotpotqa.github.io/  
 
 
 # where to look after...
 
-https://github.com/topics
-https://paperswithcode.com
-https://www.reddit.com/r/MachineLearning/
-https://www.reddit.com/r/LanguageTechnology/
-google -> github + awesome
+https://github.com/topics  
+https://paperswithcode.com  
+https://www.reddit.com/r/MachineLearning/  
+https://www.reddit.com/r/LanguageTechnology/  
+google -> github + awesome  
 
 # verify usefuleness
 
-http://mist-deid.sourceforge.net/docs_2_0/html/index.html
-https://towardsdatascience.com/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0
-http://cl.haifa.ac.il/projects/L2/index.shtml <- interesting, but I'm not sure if for us
+http://mist-deid.sourceforge.net/docs_2_0/html/index.html  
+https://towardsdatascience.com/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0  
+http://cl.haifa.ac.il/projects/L2/index.shtml <- interesting, but I'm not sure if for us  
 
 # topics
 
 
 ## tensorflow goodies
 
-https://github.com/tensorflow/text
+https://github.com/tensorflow/text  
 
 
 ## language identificaton:
 
 fasttext
-https://github.com/joshdevins/demo-es-lang-ident
-https://github.com/MartinThoma/wili-2018
-https://github.com/LauraRuis/LanguageIdentification
+https://github.com/joshdevins/demo-es-lang-ident  
+https://github.com/MartinThoma/wili-2018  
+https://github.com/LauraRuis/LanguageIdentification  
 
 
 ## sentiment analysis
 
-https://exp.lobi.nencki.gov.pl/nawl-analysis
-https://github.com/rafalposwiata/EDAs
+https://exp.lobi.nencki.gov.pl/nawl-analysis  
+https://github.com/rafalposwiata/EDAs  
