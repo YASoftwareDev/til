@@ -21,6 +21,7 @@ https://github.com/NVIDIA/Megatron-LM - nvidia BERT like training facility
 # frameworks:
 
 https://github.com/allenai/allennlp  
+https://github.com/pytorch/fairseq  
 stanfordNLP  
 flair  
 facebook research  
