@@ -75,22 +75,6 @@ http://www.deepdata.pl/uncategorized/przygotowanie-polskiego-modelu-word2vec-z-w
 http://www.deepdata.pl/nlp-scikit-learn-klasyfikacja/przyklad-klasyfikacji-polskich-tekstow-czesc-1/  
 https://distill.pub/  
 https://colah.github.io/  
-
-
-# benchmarks
-
-http://clip.ipipan.waw.pl/benchmarks  
-https://klejbenchmark.com/leaderboard  
-https://hotpotqa.github.io/  
-https://www.groundai.com/  
-https://nlpoverview.com/  
-https://github.com/mhagiwara/100-nlp-papers  
-https://zablo.net/blog/post/training-roberta-from-scratch-the-missing-guide-polish-language-model/ - how to build BERT based model.  
-http://d2l.ai/  
-http://www.deepdata.pl/uncategorized/przygotowanie-polskiego-modelu-word2vec-z-wykorzystaniem-korpusu-opensubtitles/  
-http://www.deepdata.pl/nlp-scikit-learn-klasyfikacja/przyklad-klasyfikacji-polskich-tekstow-czesc-1/  
-https://distill.pub/  
-https://colah.github.io/  
 https://github.com/amosjyng/ML-cheatsheet/releases  
 
 # benchmarks
