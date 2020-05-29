@@ -32,6 +32,10 @@ gensim
 fasttext  
 gluonnlp  
 
+# models:
+
+https://github.com/sdadas/polish-roberta/  
+https://github.com/sdadas/polish-sentence-evaluation/  
 
 # resources:
 https://datasets.quantumstat.com/  
