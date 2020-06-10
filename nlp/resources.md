@@ -41,8 +41,8 @@ google research
 openai  
 gensim  
 fasttext  
-https://github.com/allenai/allennlp
-https://gluon-nlp.mxnet.io/  gluon NLP
+https://github.com/allenai/allennlp  
+https://gluon-nlp.mxnet.io/ - gluon NLP  
 
 # models
 
