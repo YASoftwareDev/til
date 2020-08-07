@@ -25,6 +25,8 @@ https://unix.stackexchange.com/a/236843/223835
 
 strace -e file app.elf - get 
 
+## ldd - print shared object dependencies
+
 ## how to find out the dynamic libraries executables loads when run
 
 this link is a good summary of possible methods :)
