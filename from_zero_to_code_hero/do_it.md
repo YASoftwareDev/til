@@ -75,6 +75,7 @@ https://github.com/huggingface/transformers
   
 go search for proper list :)  
 https://github.com/emijrp/awesome-awesome  
+https://github.com/lukasz-madon/awesome-remote-job
   
 # Kaldi  
   
