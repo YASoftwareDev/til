@@ -13,6 +13,7 @@ https://isocpp.org/faq
 
 https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list  
 https://mariusbancila.ro/blog/2020/08/27/cpp20-books/  
+https://www.agner.org/optimize/optimizing_cpp.pdf  
 
 # videos:
 
@@ -26,6 +27,7 @@ https://www.youtube.com/user/Bisqwit
 # tools:
 
 https://godbolt.org/  
+https://github.com/andikleen/pmu-tools  
 https://code.visualstudio.com/docs/languages/cpp  
 
 # blogs:
