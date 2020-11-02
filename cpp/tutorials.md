@@ -3,19 +3,19 @@
 https://lefticus.gitbooks.io/cpp-best-practices/content/  
 https://cpppatterns.com/  
 
-# reference guide:
+# Reference guides:
 
 https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines  
 https://en.cppreference.com  
 https://isocpp.org/faq  
 
-# books:
+# Books:
 
 https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list  
 https://mariusbancila.ro/blog/2020/08/27/cpp20-books/  
 https://www.agner.org/optimize/optimizing_cpp.pdf  
 
-# videos:
+# Videos:
 
 https://www.youtube.com/watch?v=TJHgp1ugKGM  
 https://www.youtube.com/watch?v=86xWVb4XIyE  
@@ -24,13 +24,14 @@ https://www.youtube.com/user/CppCon
 https://www.youtube.com/user/BoostCon  
 https://www.youtube.com/user/Bisqwit  
 
-# tools:
+# Tools:
 
 https://godbolt.org/  
 https://github.com/andikleen/pmu-tools  
 https://code.visualstudio.com/docs/languages/cpp  
 
-# blogs:
+# Blogs:
+
 https://herbsutter.com/gotw/  
 https://www.fluentcpp.com/  
 https://www.modernescpp.com/  
@@ -39,7 +40,7 @@ https://arne-mertz.de/
 https://thoughts-on-coding.com/  
 https://akrzemi1.wordpress.com/  
 
-# other stuff:
+# Other stuff:
 
 https://isocpp.org/  
 https://www.reddit.com/r/cpp  
@@ -47,11 +48,17 @@ https://github.com/MattPD/cpplinks
 https://github.com/fffaraz/awesome-cpp  
 
 
-# specialized tools:
+# Specialized tools:
 
 https://www.valgrind.org/  
+https://llvm.org/docs/CommandGuide/llvm-mca.html  
 https://github.com/intoli/exodus  
 
-# cabin in the wood
+# Cabin in the wood:
 
 https://github.com/Kobzol/hardware-effects  
+
+# More black magic optimizations
+
+https://stackoverflow.com/questions/38552116/how-to-remove-noise-from-gcc-clang-assembly-output  
+https://youtu.be/bSkpMdDe4g4  
