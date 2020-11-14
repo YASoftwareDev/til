@@ -1,8 +1,8 @@
-## strip - Discard symbols from object files.
+# strip - Discard symbols from object files.
 
-## whereis - locate the binary, source, and manual page files for a command
+# whereis - locate the binary, source, and manual page files for a command
 
-## ldconfig - configure dynamic linker run-time bindings
+# ldconfig - configure dynamic linker run-time bindings
   -p, --print-cache
          Print the lists of directories and candidate libraries stored in the current cache.
 example:
@@ -10,34 +10,34 @@ example:
 /sbin/ldconfig -p | rg libnvinfer
 ```
 
-## dpkg - package manager for Debian
+# dpkg - package manager for Debian
   -l
     List packages matching given pattern
 
-##
+#
 If you'd like to delete (purge) the package completely (with configuration files), you'll have to run:
 
 dpkg -P urserver
 
 https://unix.stackexchange.com/a/236843/223835
 
-## strace - trace system calls and signals (ultimate tool!)
+# strace - trace system calls and signals (ultimate tool!)
 
 strace -e file app.elf - get 
 
-## ldd - print shared object dependencies
+# ldd - print shared object dependencies
 
-## how to find out the dynamic libraries executables loads when run
+# how to find out the dynamic libraries executables loads when run
 
 this link is a good summary of possible methods :)
 
 https://unix.stackexchange.com/questions/120015/how-to-find-out-the-dynamic-libraries-executables-loads-when-run
 
-## google/bloaty
+# google/bloaty
 
 https://github.com/google/bloaty - Bloaty McBloatface: a size profiler for binaries
 
-## oneliners
+# oneliners
 
 ```
 file a.out
@@ -54,4 +54,14 @@ GNU C99 9.2.1 20191102 -mtune=generic -march=x86-64 -g -g -O2 -std=c99 -fPIC -fa
 GNU C99 9.2.1 20191102 -mtune=generic -march=x86-64 -g -g -g -O2 -std=c99 -fPIC -fvisibility=hidden -fasynchronous-unwind-tables -fstack-protector-strong
 GNU C++11 9.2.1 20191102 -mtune=generic -march=x86-64 -g -g -O2 -O2 -std=c++11 -fPIC -fasynchronous-unwind-tables -fstack-protector-strong
 __GNU_EH_FRAME_HDR
+```
+# llvm
+
+https://apt.llvm.org/
+
+```
+For convenience there is an automatic installation script available that installs LLVM for you.
+To install the latest stable version:
+
+bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)"
 ```
