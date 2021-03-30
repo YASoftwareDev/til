@@ -1,8 +1,8 @@
 # Linux and related stuff  
   
-[https://github.com/YASoftwareDev/dotfiles](dotfiles to install and tools documentation)  
+[dotfiles to install and tools documentation](https://github.com/YASoftwareDev/dotfiles)  
 https://linuxconfig.org/bash-scripting-tutorial-for-beginners  
-https://github.com/awesome-lists/awesome-bash - choose ones that match your taste  
+[choose awesome list ones that match your taste](https://github.com/awesome-lists/awesome-bash)  
 https://onceupon.github.io/Bash-Oneliner/  
 https://www.deonsworld.co.za/2012/12/20/understanding-and-using-htop-monitor-system-resources/  
 https://explainshell.com/  
@@ -17,8 +17,8 @@ https://github.com/stephenturner/oneliners
   
 # Docker  
   
-https://docs.docker.com/get-started/ - really decent introduction  
-https://github.com/wsargent/docker-cheat-sheet - to go back when ready  
+[really decent introduction](https://docs.docker.com/get-started/)    
+[to go back when ready](https://github.com/wsargent/docker-cheat-sheet)   
   
 # Git  
   
@@ -26,9 +26,9 @@ https://docs.gitlab.com/ee/gitlab-basics/feature_branch_workflow.html
   
 # Python  
   
-for total newbies: https://www.py4e.com/lessons   
+[for total newbies](https://www.py4e.com/lessons)   
 https://stackabuse.com/the-best-python-books-for-all-skill-levels/   
-Fluent Python: Clear, Concise, and Effective Programming	https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008  
+[Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)  
   
 https://github.com/zedr/clean-code-python  
 https://refactoring.guru/design-patterns  
@@ -43,8 +43,8 @@ https://learning-python.com/about-lp5e.html - https://github.com/MrAlex6204/Book
   
   
 https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list  
-C++ Primer (5th Edition)	https://www.amazon.com/dp/0321714113/  
-C++ Concurrency in Action: Practical Multithreading	https://www.amazon.com/dp/1933988770/  
+[C++ Primer (5th Edition)](https://www.amazon.com/dp/0321714113/)  
+[C++ Concurrency in Action: Practical Multithreading](https://www.amazon.com/dp/1933988770/)  
 https://godbolt.org/  
 https://isocpp.org/  
 https://www.reddit.com/r/cpp/top/?t=all  
@@ -93,9 +93,10 @@ https://github.com/YoavRamon/awesome-kaldi
   
 # Software development  
   
-Head First Design Patterns: A Brain-Friendly Guide	https://www.amazon.com/dp/0596007124/  
-The Pragmatic Programmer: From Journeyman to Master	https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X  
-What Every Programmer Should Know About Memory	https://people.freebsd.org/~lstewart/articles/cpumemory.pdf  
-What Every Computer Scientist Should Know About Floating-Point Arithmetic 	https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html  
+[Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/dp/0596007124/)  
+[The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)  
+[Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)  
+[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)  
+[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)  
 https://dzone.com/articles/books-every-programmer-should-read  
 https://lubimyczytac.pl/ksiazka/71548/e-mailem-z-doliny-krzemowej  
