@@ -8,6 +8,7 @@ https://cpppatterns.com/
 https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines  
 https://en.cppreference.com  
 https://isocpp.org/faq  
+https://quuxplusone.github.io/blog/2019/08/02/the-tough-guide-to-cpp-acronyms/
 
 # Books:
 
@@ -23,6 +24,7 @@ https://www.youtube.com/user/CppCon
 [cpp on sea](https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw/videos)  
 https://www.youtube.com/user/BoostCon  
 https://www.youtube.com/user/Bisqwit  
+https://youtu.be/ECA-7erEJdU?list=RDCMUCMlGfpWw-RUdWX_JbLCukXg
 
 # Tools:
 
