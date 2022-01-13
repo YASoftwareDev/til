@@ -25,6 +25,7 @@ https://www.youtube.com/user/CppCon
 https://www.youtube.com/user/BoostCon  
 https://www.youtube.com/user/Bisqwit  
 https://youtu.be/ECA-7erEJdU?list=RDCMUCMlGfpWw-RUdWX_JbLCukXg
+https://www.youtube.com/watch?v=ZXTI5iWHhrg
 
 # Tools:
 
