@@ -1,5 +1,6 @@
 # TL&DR
 
+https://github.com/yuchdev/CppBooks
 https://lefticus.gitbooks.io/cpp-best-practices/content/  
 https://www.cppstories.com/2022/20-smaller-cpp20-features/  
 https://cpppatterns.com/  
