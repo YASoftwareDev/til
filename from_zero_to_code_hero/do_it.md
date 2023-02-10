@@ -99,4 +99,5 @@ https://github.com/YoavRamon/awesome-kaldi
 [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)  
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)  
 https://dzone.com/articles/books-every-programmer-should-read  
-https://lubimyczytac.pl/ksiazka/71548/e-mailem-z-doliny-krzemowej  
+[E-mailem z doliny krzemowej](https://lubimyczytac.pl/ksiazka/71548/e-mailem-z-doliny-krzemowej)  
+[97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbook.io/97-things-every-programmer-should-know/en) - Pearls of wisdom for programmers collected from leading practitioners.
